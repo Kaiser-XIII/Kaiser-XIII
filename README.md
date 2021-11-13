@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kaiser-XIII.
-- 👀 I’m interested in cloud architecture,newtork,game design,unity
+- 👀 I’m interested in cloud architecture,newtork,game design,unity,web design,databases
 - 🌱 I’m currently learning aws,python
 - 📫 How to reach me orhanveli_13@hotmail.com
 
